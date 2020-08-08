@@ -1,0 +1,1 @@
+https://github.com/enixdark/pythonlearn-001/blob/master/week7/Assignment%207.2.py
